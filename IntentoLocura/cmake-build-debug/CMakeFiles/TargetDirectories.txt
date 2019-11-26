@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/IntentoLocura/cmake-build-debug/CMakeFiles/IntentoLocura.dir
+C:/Users/J/CLionProjects/IntentoLocura/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/IntentoLocura/cmake-build-debug/CMakeFiles/rebuild_cache.dir

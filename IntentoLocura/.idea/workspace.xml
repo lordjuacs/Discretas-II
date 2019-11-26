@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="IntentoLocura" targetName="IntentoLocura" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f3f94b4-5c25-420a-abb7-3c79c76d6230" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1TrIjK2EOzwbcetC8Pnpct5tRDG" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Me/IntentoLocura" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="IntentoLocura" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="IntentoLocura" TARGET_NAME="IntentoLocura" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="IntentoLocura" RUN_TARGET_NAME="IntentoLocura">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3f94b4-5c25-420a-abb7-3c79c76d6230" name="Default Changelist" comment="" />
+      <created>1574211920126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574211920126</updated>
+      <workItem from="1574211922509" duration="10742000" />
+      <workItem from="1574266053868" duration="478000" />
+      <workItem from="1574291629033" duration="4778000" />
+      <workItem from="1574307218016" duration="3894000" />
+      <workItem from="1574343458606" duration="102000" />
+      <workItem from="1574352294505" duration="91000" />
+      <workItem from="1574366981481" duration="2722000" />
+      <workItem from="1574437942536" duration="501000" />
+      <workItem from="1574459620831" duration="5581000" />
+      <workItem from="1574607209367" duration="2248000" />
+      <workItem from="1574619272121" duration="5727000" />
+      <workItem from="1574642742064" duration="10730000" />
+      <workItem from="1574654966016" duration="9000" />
+      <workItem from="1574691669313" duration="239000" />
+      <workItem from="1574702959438" duration="2469000" />
+      <workItem from="1574706544156" duration="1258000" />
+      <workItem from="1574732409707" duration="1820000" />
+      <workItem from="1574736283355" duration="1003000" />
+      <workItem from="1574769512593" duration="406000" />
+      <workItem from="1574799132192" duration="262000" />
+      <workItem from="1574800135476" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
